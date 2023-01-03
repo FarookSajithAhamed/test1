@@ -6,6 +6,6 @@ class sum
         int b=4;
         System.out.println(a+b);
         System.out.print("hello github");
-        //kamal
+        //kamaludeen
     }
 }
